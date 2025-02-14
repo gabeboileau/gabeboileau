@@ -1,16 +1,26 @@
-## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=gabrienb&color=blue)
 
-<!--
-**gabeboileau/gabeboileau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Languages:** Python, Typescript, C++, Java, Go
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=gabrienb&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrienb&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gabrien-boileau-793138a6/)
+- [GitHub](https://github.com/gabeboileau)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
