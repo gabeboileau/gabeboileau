@@ -19,7 +19,6 @@
 ## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gabrienb&show_icons=true&theme=radical)
-!Profile Views](https://komarev.com/ghpvc/?username=gabrienb&color=blue)
 
 ## Top Languages
 
